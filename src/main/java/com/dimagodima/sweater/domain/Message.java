@@ -37,7 +37,7 @@ public class Message {
         this.author = author;
     }
 
-  public String getText() {
+    public String getText() {
         return text;
     }
 
